@@ -7,7 +7,7 @@ Welcome to my GitHub profile, I'm Daniel Mathew!
 - 💬 Ask me about Tkinter, SwiftUI, or APIs
 - ⚡ Fun fact: I use AI to build tools.
 
----
+
 
 ## 🔧 Technologies & Tools
 
@@ -16,7 +16,7 @@ Welcome to my GitHub profile, I'm Daniel Mathew!
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)
 
----
+
 
 ## 🌐 Connect with me
 
@@ -26,4 +26,3 @@ Welcome to my GitHub profile, I'm Daniel Mathew!
 <a href="mailto:mail@danielmathew.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
