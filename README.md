@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**danielmthw/danielmthw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile, I'm Daniel Mathew!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Python projects
+- 🌱 I’m learning Flutter and Mobile Development
+- 💬 Ask me about Tkinter, SwiftUI, or APIs
+- ⚡ Fun fact: I use AI to build tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
+![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+<a href="https://www.instagram.com/danielmathew" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/danielmathew/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mail@danielmathew.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
