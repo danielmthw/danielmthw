@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile, I'm Daniel Mathew!
+Welcome to my GitHub profile. I'm Daniel Mathew!
 
 - 🔭 I’m currently working on Python projects
 - 🌱 I’m learning Flutter and Mobile Development
